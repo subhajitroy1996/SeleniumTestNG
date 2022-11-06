@@ -20,7 +20,7 @@ public class Orders extends AbstractComponent{
 	}
 By orders=By.xpath("//tr/td[2]");
 
-
+//hhas
 
 public List<WebElement> ordersList()
 {return driver.findElements(orders);
